@@ -20,3 +20,5 @@ coverage.html
 # Testing files
 *.feature
 temp
+test-harness/
+test/features/
